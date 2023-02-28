@@ -1,0 +1,64 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey"],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help you?"
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": ["goodbye", "bye", "see you later"],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care."
+      ]
+    },
+    {
+      "tag":"job",
+      "patterns":["what can you do?","what all can you perform?","what are the options?","what can the options you have?"],
+      "responses":["I can do addition,subtraction,Multiplication and divison"]
+    },
+     {
+            "tag": "add",
+            "patterns": ["Add", "Addition", "Add numbers"],
+            "responses": ["Sure, what are the numbers you want to add?"]
+        },
+        {
+            "tag": "subtract",
+            "patterns": ["Subtract", "Subtraction", "Subtract numbers"],
+            "responses": ["Sure, what are the numbers you want to subtract?"]
+        },
+        {
+            "tag": "multiply",
+            "patterns": ["Multiply", "Multiplication", "Multiply numbers"],
+            "responses": ["Sure, what are the numbers you want to multiply?"]
+        },
+        {
+          "tag":"divison",
+          "patterns":["divide","division"],
+          "responses":["Sure what are the numbers you want to divide"]
+        }
+      ]
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
