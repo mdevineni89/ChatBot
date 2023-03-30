@@ -1,0 +1,66 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey"],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help you?"
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": ["goodbye", "bye", "see you later"],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care."
+      ]
+    },
+    {
+      "tag":"job",
+      "patterns":["what can you do?","what all can you perform?","what are the options?","what can the options you have?"],
+      "responses":["I can do Arthemetic Operations and can predict temperature"]
+    },
+    {
+      "tag":"Game",
+      "patterns":["I would like to paly","What game can I play now?","What is the condition outside?","best conditions to play"],
+      "responses":["Please Enter your Location and choose from the options"]
+    },
+    {
+      "tag":"Weather",
+      "patterns":["How is the weather today?","what is today's climate?","How does the weather feel today?"],
+      "responses":[""]
+    },
+    {
+      "tag":"Weather_tomorrow",
+      "patterns":["How is the weather tomorrow?","what is tomorrow's climate?","How does the weather feel tomorrow?"],
+      "responses":[""]
+    },
+    {
+      "tag":"Weather_day_after_tomorrow",
+      "patterns":["How is the weather day after tomorrow?","what is climate day after tomorrow ?","How does the climate feel day after tomorrow?"],
+      "responses":[""]
+    },
+    {
+      "tag":"football",
+      "patterns":["can i play football?","How is it outside to play football?","is football playable today?"],
+      "responses":[""]
+    },
+    {
+      "tag":"icehockey",
+      "patterns":["can i play Ice hockey?","How is it outside to play Ice Hockey?","is ice hockey playable today?"],
+      "responses":[""]
+    },
+    {
+      "tag":"Basketball",
+      "patterns":["can i play basket ball?","How is it outside to play basket ball?","is bsket ball playable today?"],
+      "responses":[""]
+    },
+    {
+      "tag":"baseball",
+      "patterns":["can i play baseball?","How is it outside to play baseball?","is baseball playable today?"],
+      "responses":[""]
+    }
+
+      ]
+}
