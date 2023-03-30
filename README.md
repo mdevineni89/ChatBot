@@ -7,5 +7,5 @@ Most individuals often check the weather before scheduling an outdoor activity. 
 ## Objective
 To implement a chatbot that can provide consumers with weather information and outdoor activity recommendations.
 
-![image](https://user-images.githubusercontent.com/89813214/221762137-8947ad0d-1fc3-4cb7-993a-f21762fa2bf9.png)
+
 
