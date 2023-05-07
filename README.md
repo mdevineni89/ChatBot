@@ -1,11 +1,11 @@
-# Weather-BOT
+# Forecasting Optimal Conditions for Outdoor Activities
 
 
 ## Introduction
-Most individuals often check the weather before scheduling an outdoor activity. People may use an app or a website to get the weather information, among other methods. A chatbot that considers a variety of weather parameters before issuing a warning for outdoor activities has been discovered through user experience research. This could help users save time and make smarter judgments.
+In recent years, weather forecasting has become increasingly accurate and reliable, providing valuable information to decision-makers across a range of industries. One area where weather forecasting has become particularly important is in sports, where inclement weather conditions can pose significant risks to player safety and performance. In response to this, a dashboard has been developed to provide analysis on whether a sport can be played or not based on forecasted weather information.
 
 ## Objective
-To implement a chatbot that can provide consumers with weather information and outdoor activity recommendations.
+The problem is to develop a recommendation system for playing outdoor sports based on the weather conditions forecasted for the next 5 days at 3-hour intervals. The objective is to provide users with accurate and reliable information that can help them decide whether to proceed with a planned outdoor activity or reschedule it due to unfavorable weather conditions. 
 
 
 
